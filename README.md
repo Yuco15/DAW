@@ -1,2 +1,2 @@
 # DAW
-Repositoria de proyectos de 1º de DAW
+Repositorio de proyectos de 1º de DAW
