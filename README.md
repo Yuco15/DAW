@@ -1,2 +1,2 @@
 # DAW
-Primer proyecto para desarrollar una pagina web con HTML sin uso de CSS
+Repositoria de proyectos de 1º de DAW
